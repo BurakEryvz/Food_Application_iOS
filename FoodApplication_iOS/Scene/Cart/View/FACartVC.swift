@@ -45,13 +45,6 @@ class FACartVC: UIViewController, FACartFoodDelegate{
         calculateTotalAmount()
         
     }
-    
-    
-    
-   
-    
-    
-    
 
     @IBAction func processToPaymentButtonPressed(_ sender: UIButton) {
         
